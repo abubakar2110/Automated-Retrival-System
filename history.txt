@@ -1,0 +1,187 @@
+Email Address:
+q@gmail.com
+Email Content:
+ive me info about auses
+Response:
+Information about auses:
+Head Name: Mr. Kamran Ali
+Developed Date : 2016-01-15
+Reason : Enhance software engineering skills
+Benefits : Project experience, Career growth
+
+
+Email Address:
+give@gmail.com
+Email Content:
+give me info about audas
+Response:
+Information about audas:
+Head Name: Dr. Sara Ahmed
+Developed Date : 2018-09-01
+Reason : Promote data and AI-related activities
+Benefits : Skill development, Networking opportunities
+
+
+Email Address:
+h@gmail.com
+Email Content:
+give me info about cyber security
+Response:
+Information about cyber security:
+General Info : 
+Dean = Dr. Ammar Masood
+Total Semesters = 8
+Block = A
+Samester 1 :
+1)Introduction to Information and Communication Technologies
+2)Introduction to Information and Communication Technologies Lab
+3)Programming Fundamentals
+4)Programming Fundamentals Lab
+5)Reading and Writing Skills
+6)Islamic Studies and Ethics
+7)Pre-Calculus
+8)Foundational Mathematics
+
+Samester 2 :
+1)Database
+2)Database Lab
+3)Digital Logic Design (DLD)
+4)DLD Lab
+5)Object-Oriented Programming (OOP)
+6)OOP Lab
+7)Discrete Structures
+
+
+
+Email Address:
+give@gmail.com
+Email Content:
+give me info about computer science department
+Response:
+Information about cs:
+General Info : 
+Dean = Dr. Ammar Masood
+Total Semesters = 8
+Block = A
+Samester 1 :
+1)Introduction to Information and Communication Technologies
+2)Introduction to Information and Communication Technologies Lab
+3)Programming Fundamentals
+4)Programming Fundamentals Lab
+5)Reading and Writing Skills
+6)Islamic Studies and Ethics
+7)Pre-Calculus
+8)Foundational Mathematics
+
+Samester 2 :
+1)Database
+2)Database Lab
+3)Digital Logic Design (DLD)
+4)DLD Lab
+5)Object-Oriented Programming (OOP)
+6)OOP Lab
+7)Discrete Structures
+
+
+
+Email Address:
+123@gmail.com
+Email Content:
+i student admission
+Response:
+Sorry, the requested information is not available.
+
+
+Email Address:
+q@gmail.com
+Email Content:
+admission in ai 
+Response:
+Information about ai:
+General Info :
+Dean = Dr. Ammar Masood
+Total Semesters = 8
+Block = A
+Samester 1 :
+1)Introduction to Information and Communication Technologies
+2)Introduction to Information and Communication Technologies Lab
+3)Programming Fundamentals
+4)Programming Fundamentals Lab
+5)Reading and Writing Skills
+6)Islamic Studies and Ethics
+7)Pre-Calculus
+8)Foundational Mathematics
+
+Samester 2 :
+1)Database
+2)Database Lab
+3)Digital Logic Design (DLD)
+4)DLD Lab
+5)Object-Oriented Programming (OOP)
+6)OOP Lab
+7)Discrete Structures
+
+
+
+Email Address:
+malik@gmail.com
+Email Content:
+i want information about ai
+Response:
+Information about ai:
+General Info :
+Dean = Dr. Ammar Masood
+Total Semesters = 8
+Block = A
+Samester 1 :
+1)Introduction to Information and Communication Technologies
+2)Introduction to Information and Communication Technologies Lab
+3)Programming Fundamentals
+4)Programming Fundamentals Lab
+5)Reading and Writing Skills
+6)Islamic Studies and Ethics
+7)Pre-Calculus
+8)Foundational Mathematics
+
+Samester 2 :
+1)Database
+2)Database Lab
+3)Digital Logic Design (DLD)
+4)DLD Lab
+5)Object-Oriented Programming (OOP)
+6)OOP Lab
+7)Discrete Structures
+
+
+
+Email Address:
+ali@gmail.com
+Email Content:
+i want information about cs
+Response:
+Information about cs:
+General Info : 
+Dean = Dr. Ammar Masood
+Total Semesters = 8
+Block = A
+Samester 1 :
+1)Introduction to Information and Communication Technologies
+2)Introduction to Information and Communication Technologies Lab
+3)Programming Fundamentals
+4)Programming Fundamentals Lab
+5)Reading and Writing Skills
+6)Islamic Studies and Ethics
+7)Pre-Calculus
+8)Foundational Mathematics
+
+Samester 2 :
+1)Database
+2)Database Lab
+3)Digital Logic Design (DLD)
+4)DLD Lab
+5)Object-Oriented Programming (OOP)
+6)OOP Lab
+7)Discrete Structures
+
+
+
